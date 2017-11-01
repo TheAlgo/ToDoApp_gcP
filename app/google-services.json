@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "880558568411",
+    "firebase_url": "https://todofirebaseproject-f96dc.firebaseio.com",
+    "project_id": "todofirebaseproject-f96dc",
+    "storage_bucket": "todofirebaseproject-f96dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880558568411:android:02a8e143b4cf30e6",
+        "android_client_info": {
+          "package_name": "com.dhirajkumarcoder.android.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880558568411-60hq4rbkf9pnmeb5b1qc1jgvb1oc2vo6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhirajkumarcoder.android.todoapp",
+            "certificate_hash": "3ee9c7a77f3663335b24ea9954c1d0ab22b62bda"
+          }
+        },
+        {
+          "client_id": "880558568411-bro2l0g0q1kn4elebr1cj0n9bd5ihr0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNhcWjBUvvp5YTaczYwgX-2xzS-Iqo0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880558568411-bro2l0g0q1kn4elebr1cj0n9bd5ihr0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880558568411:android:a1b3326590cefdb1",
+        "android_client_info": {
+          "package_name": "com.dhirajkumarcoder.android.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880558568411-hqk0m6r17l00q1isvske5vmvgupbpmi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhirajkumarcoder.android.todo",
+            "certificate_hash": "3ee9c7a77f3663335b24ea9954c1d0ab22b62bda"
+          }
+        },
+        {
+          "client_id": "880558568411-bro2l0g0q1kn4elebr1cj0n9bd5ihr0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNhcWjBUvvp5YTaczYwgX-2xzS-Iqo0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880558568411-bro2l0g0q1kn4elebr1cj0n9bd5ihr0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
